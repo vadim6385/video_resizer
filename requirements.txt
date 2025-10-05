@@ -1,0 +1,8 @@
+# This script requires Python 3.6+ and FFmpeg installed on the system
+# No additional Python packages are required beyond the standard library
+
+# FFmpeg must be available in the system PATH
+# Download from: https://ffmpeg.org/download.html
+
+# The script uses only standard library modules:
+# os, threading, tkinter, subprocess, sys, time, json, shutil, tempfile, uuid
